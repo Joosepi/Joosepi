@@ -19,3 +19,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joosepi&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="joosepi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joosepi&theme=dark" alt="joosepi" /></p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Joosepi/badges/large" alt="CodeWars Badge" />
+</p>
