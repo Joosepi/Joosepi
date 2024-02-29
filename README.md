@@ -9,7 +9,7 @@
 
 - My portfolio: [Portfolio Website](https://portfolio-website-main-dun.vercel.app)
 
-- 📫 How to reach me: [martinjoosep@outlook.com](mailto:martinjoosep@outlook.com)
+- 📫 How to reach me: [martinjoosep@outlook.com](mailto:martinjoosep.reiljan@ametikool.ee)
 
 
 <h3 align="center">My github activitys:</h3>
