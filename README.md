@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=joosepi&label=Profile%20views&color=927c7c&style=plastic" alt="joosepi" />
 </p>
 
-- 🌱 I’m currently learning **Frameworks, Next.js, Python**
-
 - My portfolio: [Portfolio Website](https://portfolio-website-main-dun.vercel.app)
 
 - 📫 How to reach me: [martinjoosep.reiljan@ametikool.ee](mailto:martinjoosep.reiljan@ametikool.ee)
