@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im joosep<br>Im 19<br>I like to work with different types of code<br>you can reach me from my email: martinjoosep.reiljan@ametikool.ee<br>im 4 kyu in codewars.
+Im joosep, I am 19<br><br>I like to work with different types of code<br>you can reach me from my email: martinjoosep.reiljan@ametikool.ee<br>im 4 kyu in codewars.
 
 
 # 💻 Tech Stack:
